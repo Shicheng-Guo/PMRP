@@ -1,0 +1,441 @@
+Hi Shicheng,
+Just to confirm, you want a file that maps the PMRP subject IDs in the files I sent on Feb. 12 with the identifiers in the attached file, correct?
+
+Thanks,
+Joe
+
+-----Original Message-----
+From: Strenn, Rob <strenn.rob@marshfieldresearch.org> 
+Sent: Tuesday, February 25, 2020 12:08 PM
+To: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Subject: FW: 93633 - SHUKLA, SANJAY K
+
+
+
+-----Original Message-----
+From: Guo, Shicheng 
+Sent: Monday, February 24, 2020 4:22 PM
+To: Shukla, Sanjay PhD; Strenn, Rob
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Sorry, I forget to attach the file. Please check the attachment. 
+
+Shicheng
+
+-----Original Message-----
+From: Guo, Shicheng 
+Sent: Monday, February 24, 2020 4:20 PM
+To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>; Strenn, Rob <strenn.rob@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Dear All, 
+
+Please check the ID what I have. The first column of the enclose file is the ID for 18,624 genotyping data. We need to match/map the phenotype ID with genotype ID. 
+
+Thanks. 
+
+Shicheng
+
+-----Original Message-----
+From: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org> 
+Sent: Monday, February 24, 2020 4:15 PM
+To: Strenn, Rob <strenn.rob@marshfieldresearch.org>
+Cc: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>; Guo, Shicheng <guo.shicheng@marshfieldresearch.org>
+Subject: FW: 93633 - SHUKLA, SANJAY K
+
+Hi Rob,
+
+Could you please give us the corresponding genotype data for this GWAS study at your earliest?
+
+Thank you.
+
+Sanjay
+
+
+
+
+Sanjay K. Shukla, PhD
+Director, Center for Precision Medicine Research Marshfield Clinic Research Institute
+1000 N. Oak Avenue – MLR
+Marshfield, WI 54449
+Ph:715 389 5363
+Email: shukla.sanjay@marshfieldresearch.org
+
+
+
+
+
+
+-----Original Message-----
+From: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Sent: Wednesday, February 12, 2020 2:22 PM
+To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+Cc: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Hi Sanjay and Krishna,
+
+Attached are the files:
+
+r93633_cohort_send_SubjID.csv has the data with PMRP subject ID as the identifier r93633_cohort_send_contents.doc is the data dictionary from Jim Linneman
+
+Let me know if you have any questions.
+
+Thanks,
+Joe
+
+-----Original Message-----
+From: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Sent: Wednesday, February 12, 2020 11:26 AM
+To: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Cc: Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>; Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Hi Joe,
+
+We would like the PMRP subject IDs.
+
+Thank you.
+
+Sanjay
+
+
+
+
+Sanjay K. Shukla, PhD
+Director, Center for Precision Medicine Research Marshfield Clinic Research Institute
+1000 N. Oak Avenue – MLR
+Marshfield, WI 54449
+Ph:715 389 5363
+Email: shukla.sanjay@marshfieldresearch.org
+
+
+
+
+
+
+-----Original Message-----
+From: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Sent: Wednesday, February 12, 2020 8:22 AM
+To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+Cc: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Subject: FW: 93633 - SHUKLA, SANJAY K
+
+Dr. Shukla and Krishna,
+Which PMRP ID do you want for these data?  I have:
+
+eMERGEID - 8 digit numbers that begin with 16, e.g. "16123456"
+PMRP Subject IDs - integers that range from 101 - 20595 Something else??
+
+The ID you want would depend on the IDs in your genotypic data.  Do you have an example of such an ID so I can be sure I send the correct match?
+
+Thanks,
+Joe
+
+-----Original Message-----
+From: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Sent: Monday, February 10, 2020 9:23 AM
+To: Finamore, Joe D <Finamore.Joe@marshfieldresearch.org>
+Cc: IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>
+Subject: FW: 93633 - SHUKLA, SANJAY K
+
+Hi Joe... Can you add the ID that links to the PMRP genotypic data, drop the MHNs, and send the revised csv file on to Sanjay Shukla and Krishna Ganta. Also include the attached Word document that describes the variable fields in the file.
+
+Thanks!
+Jim
+
+-----Original Message-----
+From: Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+Sent: Monday, February 03, 2020 10:57 AM
+To: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Cc: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Dear Jim, 
+                  Here are the responses for your questions. Please let me know if you have additional questions or if you need more information. 
+
+1.            Subjects with confirmed cases of staph infection with various ICD 9 codes within 48 hours of a hospital visit. (this will be considered as community-onset Staph aureus infection. This will include all Staph related ICD-codes including bacteremia.
+
+Would this be subjects who had a confirmed Staph infection within 7 days prior to the hospital admit date and 30 days after the discharge date, and also have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same hospitalization admit date?
+
+KG: No. This would be a confirmed Staph infection within 7 days prior to the hospital admit date but within 48 hours of admit. 
+
+
+2.            Subjects with recodes of multiple, independent infections based on the ICD-9 and ICD-10 codes. 
+
+Would this be subjects who have multiple distinct confirmed Staph dates that have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same confirmed Staph date, regardless as to whether or not there was a hospitalization surrounding the confirmed Staph?
+
+KG: Yes for subjects who have multiple distinct confirmed Staph dates that have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet). Here hospital admission is not relevant. 
+
+
+3.            Subjects who had required more than 3 days of antibiotic therapy after a confirmed staph infection based on the ICD-9 or -10 codes.
+
+Would this be subjects who have a confirmed Staph infection and have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same confirmed Staph date (regardless as to whether or not there was a hospitalization surrounding the confirmed Staph), 
+
+KG: Yes
+
+and also have at least 3 days of antibiotic meds, with the meds starting within 2 days after the first infection ICD code date following the confirmed Staph infection date?
+
+KG: Yes
+
+Are these the antibiotics that would be used in treatment? 
+cefazolin, cefuroxime (Zinacef, Ceftin), cephalexin (Daxbia, Keflex), nafcillin (Nafcil, Nallpen), oxacillin (Bactocill), dicloxacillin, flucloxacillin, vancomycin (Vancocin), clindamycin (Cleocin, Clindagel, Cleocin T, Cleocin HCl, Evoclin, Clindacin), rifampin (Rifadin), and telavancin (Vibativ).
+Please add or remove antibiotic meds to this list as needed.
+
+KG: yes 
+
+Thanks
+Krishna
+
+-----Original Message-----
+From: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Sent: Monday, February 3, 2020 9:10 AM
+To: Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+Cc: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Hi Krishna... I have a few questions, so that I am clear in the definitions:
+
+1.	Subjects with confirmed cases of staph infection with various ICD 9 codes within 48 hours of a hospital visit. (this will be considered as community-onset Staph aureus infection. This will include all Staph related ICD-codes including bacteremia.
+
+Would this be subjects who had a confirmed Staph infection within 7 days prior to the hospital admit date and 30 days after the discharge date, and also have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same hospitalization admit date?
+
+2.	Subjects with recodes of multiple, independent infections based on the ICD-9 and ICD-10 codes. 
+
+Would this be subjects who have multiple distinct confirmed Staph dates that have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same confirmed Staph date, regardless as to whether or not there was a hospitalization surrounding the confirmed Staph?
+
+3.	Subjects who had required more than 3 days of antibiotic therapy after a confirmed staph infection based on the ICD-9 or -10 codes.
+
+Would this be subjects who have a confirmed Staph infection and have any of the ICD 9 or ICD 10 infection codes (from the spreadsheet) within 2 days after the same confirmed Staph date (regardless as to whether or not there was a hospitalization surrounding the confirmed Staph), and also have at least 3 days of antibiotic meds, with the meds starting within 2 days after the first infection ICD code date following the confirmed Staph infection date?
+
+Are these the antibiotics that would be used in treatment? 
+cefazolin, cefuroxime (Zinacef, Ceftin), cephalexin (Daxbia, Keflex), nafcillin (Nafcil, Nallpen), oxacillin (Bactocill), dicloxacillin, flucloxacillin, vancomycin (Vancocin), clindamycin (Cleocin, Clindagel, Cleocin T, Cleocin HCl, Evoclin, Clindacin), rifampin (Rifadin), and telavancin (Vibativ).
+Please add or remove antibiotic meds to this list as needed.
+
+Thanks!
+Jim
+
+-----Original Message-----
+From: Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+Sent: Friday, January 31, 2020 2:13 PM
+To: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Cc: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Dear Jim, 
+                 I am writing this E-mail after discussing with Dr Sanjay, and requesting your input on the data 
+
+Can we have additional data based on the following criteria?
+
+1.	Subjects with confirmed cases of staph infection with various ICD 9 codes within 48 hours of a hospital visit. (this will be considered as community-onset Staph aureus infection. This will include all Staph related ICD-codes including bacteremia
+
+2.	Subjects with recodes of multiple, independent infections based on the ICD-9 and ICD-10 codes. 
+
+
+3.	Subjects who had required more than 3 days of antibiotic therapy after a confirmed staph infection based on the ICD-9 or -10 codes.
+
+
+Please let me know if I am clear in my thoughts or you may have any additional questions to be added.
+
+Thank you
+Krishna
+
+-----Original Message-----
+From: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Sent: Thursday, January 30, 2020 10:19 AM
+To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Cc: IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>; Kubacki-Meyer, Lynda M <kubacki-meyer.lynda@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Sanjay... Attached is proc contents with field definitions. Please delete email previously sent. 
+
+Thanks!
+Jim
+
+-----Original Message-----
+From: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Sent: Thursday, January 30, 2020 10:09 AM
+To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Cc: IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>; Kubacki-Meyer, Lynda M <kubacki-meyer.lynda@marshfieldresearch.org>
+Subject: RE: 93633 - SHUKLA, SANJAY K
+
+Sanjay... This is what I have completed so far on your Staph/MRSA request:
+
+I have selected subjects from PMRP (not withdrawn from study) that have one or more of the diagnoses listed in the attached (ICD code 9 and 10 for staph updated.xlsx) list and also have a positive Staph/MRSA lab and/or positive MRSA by PCR. This results in a population of 2472 subjects.
+
+Also attached is a list (r93633_cohort_send.xlsx) of the comorbid/age/demographic indicator fields compiled on the 2472 subjects and their corresponding definitions. Please review the list and let me know if it makes sense prior to me sending the data.
+
+I also need to know whether this data will be sent offsite? If so, I can set any ages greater than age 90 to age 90 in order to be compliant with HIPPA rules.
+
+Thanks!
+Jim
+
+-----Original Message-----
+From: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Sent: Wednesday, January 29, 2020 10:22 AM
+To: Linneman, James G. <linneman.james@marshfieldresearch.org>
+Cc: IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>; Kubacki-Meyer, Lynda M <kubacki-meyer.lynda@marshfieldresearch.org>; Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>
+Subject: Re: 93633 - SHUKLA, SANJAY K
+
+Hi Jim,
+
+Here are the responses. Thanks for raising very questions. I appreciated it.
+
+Sanjay
+
+    
+    1. Diagnosis groups - Do you want the list of ICD codes collapsed into diagnosis groups such as Septicemia/Sepsis, Bacterial infection, Pneumonia, etc... and then add these comorbid indicators to the data that I return to you? If so, please review the attached spreadsheet to check if I have the diagnoses grouped properly. Please make any changes to any of the diagnosis groups and return the updated spreadsheet to me.
+
+These disease codes should be restricted to infections caused by staphylococcus aureus including MRSA or MSSA 
+    
+    2. BMI - Is an individual's median BMI okay here? 
+
+BMI data closest to the date of diagnosis
+    
+    3. Hospitalizations - Need a definition here? Is there a certain time point that you wish to look at as far as hospitalizations surrounding the confirmed Staph infection (+/- # of days/months etc...)?
+
+From 7 days prior to the 30 days after
+    
+    4. Dialysis - Are you interested in dialysis prior to/on date of confirmed staph infection?
+
+Prior
+
+
+    5. Cancer - Any cancer at any time prior to staph infection? 
+
+Yes
+    
+    6. Surgery - Are you interested in whether subject had any surgery within a certain time point around the date of confirmed staph infection?  If so, how many days (+/-)?
+
+1 week before to 30 days after
+  ___________________________  
+  
+
+
+
+  Thanks!
+    Jim Linneman 
+    Research Programmer Analyst Sr. | Office of Research Computing and Analytics Marshfield Clinic Health System 
+    Office: 715-221-7271
+    
+    -----Original Message-----
+    From: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org> 
+    Sent: Monday, January 20, 2020 9:54 AM
+    To: Kubacki-Meyer, Lynda M <kubacki-meyer.lynda@marshfieldresearch.org>
+    Cc: IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>; Linneman, James G. <linneman.james@marshfieldresearch.org>; Ganta, Krishna K <ganta.krishna@marshfieldclinic.org>
+    Subject: Re: 93633 - SHUKLA, SANJAY K
+    
+    There is no fiscal number for this study unless we write a grant.  Jim would be great to work on this. Please send all the question to me but also copy to my postdoctoral fellow, Dr. Krishna Ganta. Thank you. Sanjay Shukla
+    
+    On 1/20/20, 9:50 AM, "Kubacki-Meyer, Lynda M" <kubacki-meyer.lynda@marshfieldresearch.org> wrote:
+    
+        Hi Dr. Shukla,
+        
+        Jim will be working on this request for you.  Is this truly feasibility as you noted or is there a study and fiscal # we should be tracking to? Additionally, should Jim reach out to you directly with questions or is there someone on your team you'd like to delegate this to? Thank you!
+        
+        Lynda Kubacki-Meyer
+        Research Analytics Manager | MCRI – Office of Research Computing and Analytics
+        Marshfield Clinic Health System
+        Office: 715-221-6433 | Ext: 1-6433 | Email: kubacki-meyer.lynda@marshfieldresearch.org
+        
+        
+        -----Original Message-----
+        From: SHUKLA, SANJAY K <shukla.sanjay@marshfieldclinic.org> 
+        Sent: Friday, January 17, 2020 10:56 AM
+        To: Shukla, Sanjay PhD <Shukla.Sanjay@marshfieldresearch.org>; IS RESEARCH DATA (SHARED) <is.research.data@marshfieldresearch.org>; Strenn, Rob <strenn.rob@marshfieldresearch.org>; Berg, Richard L. <Berg.Richard@marshfieldresearch.org>
+        Subject: 93633 - SHUKLA, SANJAY K
+        
+        Request Number: 93633
+        
+        To check on the status of your request, click on the link below: 
+        http://srdweb1/DW/resdatarequest/EmailRequestCheck.aspx?RequestID=93633
+        
+        No priority - USER INFORMATION
+        Person Completing this form: 
+           Name:              Shukla, Sanjay K
+           Department #:      1011
+           Department Name:   MCRI-Precision Medicine Resrch
+           Phone:             3895363
+           Routing Loc:       1R3
+           Date Requested:    1/17/2020
+           Remote Address:    shuklas
+           SP/IRB Number:     Not Provided
+           Fiscal Number:     Not Available
+           Study Description:      Not Available
+        
+        Requester:
+           Name:              Shukla, Sanjay K
+           Department #:      1011
+           Department Name:   MCRI-Precision Medicine Resrch
+           Phone:             3895363
+           Routing Loc:       1R3
+        
+        Send To:
+           Name:              Shukla, Sanjay K
+           Department #:      1011
+           Department Name:   MCRI-Precision Medicine Resrch
+           Phone:             3895363
+           Routing Loc:       1R3
+        
+           Name:              Ganta, Krishna Kumar
+           Department #:      1011
+           Department Name:   MCRI-Precision Medicine Resrch
+           Phone:             2217090
+           Routing Loc:       1R3
+        
+        This request is:   Shareable
+        Number of days until the data is needed:   3-5
+        E-mailed to:   IS Research Data and SHUKLA, SANJAY K
+        
+        **************************************************
+        DATA REQUESTED
+        
+        This request is:   A new request
+        
+        Primary reason for this request:    Research Feasibility
+        
+        Study does involve genotyping of PMRP specimens.
+        
+        ICTR: Yes
+        
+        Why report is needed:
+           To develop a Genome wide association study on Staphylococcal diseases
+        
+        Time period from:   01/01/1980
+        Time period through:   current date
+        This is a Posted date.
+        
+        Select Criteria: 
+           Everybody in PMRP who has been diagnosed with or have a ICD-9 or ICD-10 codes from the list attached. The disease examples are bacteremia, sepsis, osteomyelitis, boil, etc. 
+        
+        These PMRP subjects should also have a microbiology laboratory confirmed infection due to Staphylococcus species either by a culture method or by PCR (polymerase chain reaction). 
+        
+        Provide a separate category for people who are the carriers of Staphylococcus aureus or MRSA (methicillin-resistant Staphylococcus aureus) in the nose. Typically this was done as surveillance for MRSA carriers before a patient goes for surgery.  
+        
+        Uploaded Files: 
+           ICD code 9 and 10 for staph updated.docx
+        
+        **************************************************
+        REPORT FORMAT
+        
+        Document type (electronic):    Email
+        
+        Output:   Excel
+        
+        Frequency:   One Time Only
+        Report Title:   GWAS of Staphylococcal infections
+        
+        Columns/fields shown on report:
+           Sample ID, Age, sex, BMI, dialysis, diagnosis of cancer, hospitalization history, surgery, occupation,
+        
+        Total/Sort/Group Data by:
+           Should be sorted by the age, sex, BMI, co-morbid conditions
+        
+        Comments:
+           We would like to use this cohort to link to their PMRP genotypic data.
+        
+        
+        
+    
+    
+
